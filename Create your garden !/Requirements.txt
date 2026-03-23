@@ -1,0 +1,7 @@
+-------------
+REQUIREMENTS
+-------------
+
+Nous avons utilisé la bibliothèque Pyxel.
+
+Maxime B & Morgan DTF
