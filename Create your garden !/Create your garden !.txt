@@ -1,0 +1,43 @@
+----------------------
+ CREATE YOUR GARDEN !
+----------------------
+
+--------------
+Nom du projet
+--------------
+
+Create your garden !
+
+------------------
+Membres du groupe
+------------------
+
+DIAN--THOUET-FROGER Morgan
+BONOMO Maxime
+
+-----------------
+Résumé du projet
+-----------------
+
+Bienvenue sur Create your garden !
+
+Le but de ce jeu est de laisser libre cours à votre imagination !
+En effet, on vous offre jusqu'à 12 modèles uniques en thème avec la nature, avec la possiblité
+d'ajouter votre touche personnelle grâce aux formes que vous pouvez ajouter en plus de nos modèles.
+Ces formes sont disponibles avec 15 couleurs différentes pour votre divertissement !
+
+Merci pour votre attention, 
+Maxime Bonomo & Morgan DTF les créateurs de votre jeu préféré :)
+
+---------------
+Nature du code
+---------------
+
+Nous vous annonçons avec fierté que nous avons complètement réalisé notre projets à deux sans aucune intervention
+de l'intelligence artificielle !
+
+--------------
+Le lien Github
+--------------
+
+https://github.com/Morgan1209/CYG-ProjetNSI
