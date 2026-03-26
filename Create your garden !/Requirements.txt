@@ -1,7 +1,14 @@
--------------
+﻿-------------
 REQUIREMENTS
 -------------
 
-Nous avons utilisé la bibliothèque Pyxel.
+Pour pouvoir lancer le jeu, il faut un logiciel pouvant lire du code python (Vs-code, idle, spyder,...)
 
-Maxime B & Morgan DTF
+⚠️Ce jeu nécessite pour l'utilisateur d'avoir installer l'expension pyxel disponible avec ce lien : https://github.com/kitao/pyxel
+Certaines applications comme Vs code ont une bibliothèque associée et une commande pour l'installer avec une console : pip install -U pyxel⚠️
+
+Un code créer en orienté objet avec plusieures méthodes et variables
+Nous avons utilisé la bibliothèque Pyxel dans sa plus récente version, sans quoi les modèles présents dans plans.pyxres ne fonctionneront pas.
+L'application ne nécessite pas d'avoir un ordinateur puissant, tout le monde peut alors le lancer sans problème (sauf sur un frigo samsung :/ )
+
+Réalisé par Maxime B & Morgan DTF dans le cadre du trophé nsi de l'année scolaire 2025-2026
